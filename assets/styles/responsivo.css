@@ -24,8 +24,9 @@
             text-align: center;  
         }
         
-        #educacao .curso {
+        #educacao .curso ul {
         width: 100%;
+        text-align: center;
         }
         
         #educacao ul li {
