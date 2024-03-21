@@ -58,6 +58,9 @@
 .circulo.p98::before {
     transform: rotate(calc(180deg * (98 - 50) / 50));
 }
+.circulo.p100::before {
+    transform: rotate(calc(180deg * (100 - 50) / 50));
+}
 .circulo.p80::before {
     transform: rotate(calc(180deg * (80 - 50) / 50));
 }
