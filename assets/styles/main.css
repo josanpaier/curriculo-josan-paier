@@ -177,7 +177,7 @@ section li>h6 {
     justify-content: space-between;
 } */
 .icon {
-    height: 130px;
+    height: 110px;
     display: flex;
     flex-direction: column;
     color: white;
