@@ -167,7 +167,16 @@ section li>h6 {
     justify-content: space-around;
     width: 100%;
 }
-#habilidades>ul>li {
+/* #habilidades>ul>li {
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    font-weight: bold;
+    justify-content: space-between;
+} */
+.icon {
     height: 130px;
     display: flex;
     flex-direction: column;
