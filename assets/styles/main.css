@@ -87,7 +87,7 @@ section li>h6 {
     padding: 40px;
 }
 #sobre .profile img {
-    max-width: 400px;
+    max-width: 320px;
 }
 #sobre .apresentacao>h1 {
     color: var(--cor3);
